@@ -1,0 +1,20 @@
+PODS:
+  - lottie-ios (4.5.1)
+  - MBCircularProgressBar (0.3.5)
+
+DEPENDENCIES:
+  - lottie-ios
+  - MBCircularProgressBar
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - MBCircularProgressBar
+
+SPEC CHECKSUMS:
+  lottie-ios: 248b380fa1b97d18e792c37d90da7ab2aa0d6562
+  MBCircularProgressBar: 0b795b722a5eb5b0923822f90474e2576a1a7855
+
+PODFILE CHECKSUM: 5ac896a6826b2c38af8a56d4c0c518ebdca515f9
+
+COCOAPODS: 1.16.2
