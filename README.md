@@ -41,7 +41,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/VideoDownloaderApp.git
+git clone https://github.com/sushil33558/DownloadAndPlayVideoOffline-iOS.git
 Open the project in Xcode 14+.
 
 Run on a device/simulator with iOS 16+.
